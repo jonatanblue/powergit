@@ -16,7 +16,17 @@
 
 ## Usage
 
-    powergit "pushing straight to master for lulz"
+    $ powergit "pushing straight to master for lulz"
+    [master 41341bf] pushing straight to master for lulz
+    1 file changed, 2 insertions(+), 1 deletion(-)
+    Counting objects: 3, done.
+    Delta compression using up to 4 threads.
+    Compressing objects: 100% (3/3), done.
+    Writing objects: 100% (3/3), 401 bytes | 0 bytes/s, done.
+    Total 3 (delta 1), reused 0 (delta 0)
+    remote: Resolving deltas: 100% (1/1), completed with 1 local objects.
+    To git@github.com:jonatanblue/powergit.git
+       a8a87b5..41341bf  master -> master
 
 
 ## Disclaimer
