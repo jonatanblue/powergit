@@ -12,7 +12,8 @@ Powergit...
 ## Install
 
     cd ~/bin
-    curl -O https://github.com/jonatanblue/powergit/raw/master/powergit
+    curl -O https://raw.githubusercontent.com/jonatanblue/powergit/master/powergit
+    chmod +x powergit
 
 
 ## Usage
