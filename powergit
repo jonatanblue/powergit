@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: jonatanblue
 MESSAGE="${@}"
 git add . && git commit -m "${MESSAGE}" && git push
 
